@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Ashoka Jayasena",
+    "role": "Chairman",
+    "bio": "",
+    "image": "/team/ashoka-jayasena.jpeg",
+    "linkedin": "https://www.linkedin.com/in/ashoka-jayasena-b31b381a4/"
+  },
+  {
+    "name": "Thushara Maduranga",
+    "role": "Director",
+    "bio": "",
+    "image": "/team/thushara-maduranga.jpeg"
+  },
+  {
+    "name": "Ruwan Manjula",
+    "role": "Director",
+
+    "bio": "",
+    "image": "/team/ruwan-manjula.jpeg"
+  },
+   {
+    "name": "Ruwan Chamara",
+    "role": "Director",
+    "bio": "",
+    "image": "/team/ruwan-chamara.jpeg"
+  },
+  {
+    "name": "Bandara Pallegedara",
+    "role": "Director",
+    "bio": "",
+    "image": "/team/bandara-pallegedara.jpeg"
+  }
+ 
+]

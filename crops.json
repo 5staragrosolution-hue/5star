@@ -1,0 +1,203 @@
+[
+  {
+  "name": "Traditional Rice",
+  "slug": "traditional-rice",
+  "tagline": "Heritage Grains of Sri Lanka",
+  "description": "Authentic Sri Lankan traditional rice varieties cultivated using sustainable and science-backed farming methods.",
+  "fullDescription": "Our traditional rice plantations focus exclusively on preserving and cultivating Sri Lanka’s ancient rice varieties such as Suwandel, Pachchaperumal, Kuruluthuda, Kalu Heenati, and Madathawalu. By combining time-tested traditional knowledge with modern agricultural science, we ensure high nutritional value, purity, and long-term sustainability. As the only plantation company dedicated solely to traditional rice, we are committed to safeguarding this heritage for future generations while preparing it for global markets.",
+  "acres": "50",
+  "harvest": "Seasonal (Yala & Maha)",
+  "image": "/crops/rice.jpg",
+  "heroImage": "/crops/rice-hero.jpg",
+  "benefits": ["High nutritional value", "Low glycemic index", "Rich in antioxidants", "Heritage seed preservation"],
+  "process": [
+    "Certified traditional seed selection",
+    "Land preparation using eco-friendly methods",
+    "Controlled water management",
+    "Natural pest and weed management",
+    "Manual harvesting at maturity",
+    "Careful drying, milling, and storage"
+  ],
+  "products": [
+    "Suwandel Rice",
+    "Pachchaperumal Rice",
+    "Kuruluthuda Rice",
+    "Kalu Heenati Rice",
+    "Madathawalu Rice"
+  ],
+  "certifications": ["Genetic Seed Qualification Certified"]
+},
+
+  {
+    "name": "Pineapple",
+    "slug": "pineapple",
+    "tagline": "Tropical Sweetness Perfected",
+    "description": "Premium Sri Lankan pineapple cultivated using sustainable farming practices, known for its rich sweetness and vibrant aroma.",
+    "fullDescription": "Our pineapple fields are located in nutrient-rich Sri Lankan soil, producing juicy and aromatic fruits through eco-friendly farming techniques. With optimal irrigation and natural pest management, we ensure premium-quality pineapples for both local and global markets.",
+    "acres": "30",
+    "harvest": "Year-round",
+    "image": "/crops/pineapple.png",
+    "heroImage": "/crops/pineapple-hero.png",
+    "benefits": ["High natural sweetness", "Rich in vitamins", "Eco-friendly cultivation", "Export-quality produce"],
+    "process": [
+      "Selective suckers propagation",
+      "Soil preparation & mulching",
+      "Drip irrigation",
+      "Natural pest management",
+      "Hand-harvesting ripe fruits",
+      "Sorting & export packing"
+    ],
+    "products": [
+      "Fresh Pineapple",
+      "Pineapple Slices",
+      "Pineapple Juice",
+      "Dehydrated Pineapple"
+    ],
+    "certifications": ["GAP Certified", "ISO 22000", "Export Development Board Standards"]
+  },
+  {
+    "name": "Ginger",
+    "slug": "ginger",
+    "tagline": "Pure Sri Lankan Spice Power",
+    "description": "High-quality ginger cultivated in nutrient-rich soil, prized for its aroma, pungency, and medicinal value.",
+    "fullDescription": "Our ginger cultivation utilizes fertile Sri Lankan soil and organic farming practices to produce highly aromatic rhizomes. Each batch is carefully harvested and processed to maintain purity, medicinal value, and export-grade quality.",
+    "acres": "20",
+    "harvest": "Oct - Feb",
+    "image": "/crops/ginger.png",
+    "heroImage": "/crops/ginger-hero.png",
+    "benefits": ["High gingerol content", "Strong aroma", "Organic practices", "Medicinal properties"],
+    "process": [
+      "Rhizome selection",
+      "Soil tilling & raised beds",
+      "Organic fertilization",
+      "Manual weeding",
+      "Harvesting mature rhizomes",
+      "Cleaning & grading"
+    ],
+    "products": [
+      "Fresh Ginger",
+      "Dried Ginger",
+      "Ginger Powder",
+      "Ginger Extract"
+    ],
+    "certifications": ["Organic Certified", "ISO 9001", "HACCP"]
+  },
+  {
+    "name": "Guava",
+    "slug": "guava",
+    "tagline": "Nature’s Vitamin Powerhouse",
+    "description": "Fresh Sri Lankan guava cultivated for exceptional sweetness, aroma, and nutritional richness.",
+    "fullDescription": "Our guava orchards thrive in Sri Lanka’s ideal tropical climate. Grown with organic methods, these guavas deliver exceptional taste and high levels of vitamin C. Fruits are harvested at peak ripeness to maintain quality and freshness.",
+    "acres": "25",
+    "harvest": "Year-round",
+    "image": "/crops/guava.png",
+    "heroImage": "/crops/guava-hero.png",
+    "benefits": ["High vitamin C content", "Organic cultivation", "Sweet and aromatic", "High-yield varieties"],
+    "process": [
+      "Seedling propagation",
+      "Field planting & pruning",
+      "Organic fertilization",
+      "Fruit bagging",
+      "Hand-harvesting",
+      "Sorting & packing"
+    ],
+    "products": [
+      "Fresh Guava",
+      "Guava Juice",
+      "Guava Jam",
+      "Guava Pulp"
+    ],
+    "certifications": ["GAP Certified", "Organic Standard", "ISO 22000"]
+  },
+ {
+  "name": "Sea Food",
+  "slug": "sea-food",
+  "tagline": "Premium Sri Lankan Ocean Harvest",
+  "description": "A diverse range of premium seafood sourced and cultivated from Sri Lanka’s pristine coastal and deep-sea environments.",
+  "fullDescription": "Our Sea Food category represents Sri Lanka’s rich marine heritage, combining sustainable aquaculture and responsible ocean harvesting. From coastal farms to deep Indian Ocean waters, we produce export-grade seafood including cuttlefish, prawns, tuna, and mud crab, all processed under strict quality and hygiene standards.",
+  "acres": "20",
+  "harvest": "Seasonal & Year-round",
+  "image": "/crops/sea-food.jpg",
+  "heroImage": "/crops/sea-food-hero.jpg",
+  "benefits": [
+    "High-protein natural seafood",
+    "Rich in Omega-3 & minerals",
+    "Sustainably sourced",
+    "Export-grade quality",
+    "Sri Lanka origin certified"
+  ],
+  "process": [
+    "Sustainable aquaculture & deep-sea harvesting",
+    "Strict quality grading",
+    "Hygienic processing",
+    "Cold-chain preservation",
+    "Export-ready packaging",
+    "International compliance checks"
+  ],
+  "products": [
+    "Cuttlefish",
+    "Black Tiger Prawns",
+    "Yellowfin Tuna",
+    "Mud Crab"
+  ],
+  "certifications": [
+    "Export Certified",
+    "Aquaculture Standards",
+    "HACCP",
+    "EU Export Standards"
+  ]
+},
+  {
+    "name": "Pomegranate",
+    "slug": "pomegranate",
+    "tagline": "Ruby-Red Goodness",
+    "description": "Premium pomegranates cultivated in dry-zone regions of Sri Lanka with exceptional sweetness and vibrant color.",
+    "fullDescription": "Our pomegranate orchards produce fruits with deep red arils and rich antioxidant content. Managed with precision irrigation and sustainable field practices, our pomegranates deliver consistent size, sweetness, and export-ready quality.",
+    "acres": "20",
+    "harvest": "Aug - Jan",
+    "image": "/crops/pomegranate.png",
+    "heroImage": "/crops/pomegranate-hero.png",
+    "benefits": ["Rich antioxidants", "High juice content", "Long shelf life", "Premium export quality"],
+    "process": [
+      "Sapling preparation",
+      "Drip irrigation setup",
+      "Flower induction practices",
+      "Fruit thinning",
+      "Careful harvesting",
+      "Cold storage & packing"
+    ],
+    "products": [
+      "Fresh Pomegranate",
+      "Pomegranate Juice",
+      "Pomegranate Arils",
+      "Pomegranate Extract"
+    ],
+    "certifications": ["ISO 22000", "Global GAP", "HACCP"]
+  },
+  {
+    "name": "Vegetables",
+    "slug": "vegetables",
+    "tagline": "Freshness from Sri Lankan Soil",
+    "description": "Mixed vegetable cultivation across 30 acres, producing export-grade, pesticide-controlled, fresh vegetables.",
+    "fullDescription": "Our mixed vegetable plantations include a diverse range of crops such as okra, beans, tomatoes, eggplant, cucumbers, chilies, pumpkins, and leafy greens. Using modern irrigation and integrated pest management, we supply high-quality vegetables for supermarkets and export markets.",
+    "acres": "30",
+    "harvest": "All Seasons",
+    "image": "/crops/vegetables.png",
+    "heroImage": "/crops/vegetables-hero.png",
+    "benefits": ["Pesticide-controlled", "High freshness", "Wide variety", "Sustainable farming"],
+    "process": [
+      "Seed selection",
+      "Land preparation",
+      "Drip & sprinkler irrigation",
+      "Field monitoring",
+      "Daily harvesting",
+      "Sorting & cold storage"
+    ],
+    "products": [
+      "Fresh Mixed Vegetables",
+      "Cut & Packed Vegetables",
+      "Export Vegetable Packs"
+    ],
+    "certifications": ["GAP Certified", "ISO 22000", "HACCP"]
+  }
+]

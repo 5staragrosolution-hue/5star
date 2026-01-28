@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "category": "Expansion",
+    "title": "Five Star Agro Solutions to Officially Launch on 1st January 2026",
+    "excerpt": "Five Star Agro Solutions is set to officially commence operations on 1st January 2026, marking the beginning of a new era in sustainable and export-oriented agriculture in Sri Lanka.",
+    "date": "January 1, 2026",
+    "image": "/news/1.jpg",
+    "featured": true,
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "category": "Innovation",
+    "title": "Modern Farming Practices Introduced Across 150 Acres of Plantations",
+    "excerpt": "The company has implemented modern irrigation, crop planning, and sustainable cultivation techniques across its 150-acre plantation portfolio to ensure consistent quality and long-term productivity.",
+    "date": "December 20, 2025",
+    "image": "/news/2.jpg",
+    "featured": true,
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "category": "Community",
+    "title": "Experienced Team Assembled to Drive Agricultural Excellence",
+    "excerpt": "Five Star Agro Solutions brings together a highly experienced chairman, board of directors, and operational team with strong backgrounds in agriculture, management, and export markets.",
+    "date": "December 15, 2025",
+    "image": "/news/3.jpg",
+    "featured": false,
+    "link": "#"
+  },
+  {
+    "id": 4,
+    "category": "Sustainability",
+    "title": "Commitment to Sustainable and Responsible Farming Practices",
+    "excerpt": "From day one, Five Star Agro Solutions is committed to eco-friendly farming methods that protect soil health, biodiversity, and long-term agricultural sustainability.",
+    "date": "December 10, 2025",
+    "image": "/news/4.jpg",
+    "featured": false,
+    "link": "#"
+  },
+  {
+    "id": 5,
+    "category": "Recognition",
+    "title": "Strong Leadership Positions Company for Future Growth",
+    "excerpt": "With guidance from an experienced chairman and director board, Five Star Agro Solutions is positioned for steady growth and long-term success in both local and international markets.",
+    "date": "December 5, 2025",
+    "image": "/news/5.jpg",
+    "featured": false,
+    "link": "#"
+  },
+  {
+    "id": 6,
+    "category": "Expansion",
+    "title": "Five Star Agro Prepares for Global Market Entry",
+    "excerpt": "The company is preparing its operations, logistics, and digital presence to support future exports while building relationships with international buyers and partners.",
+    "date": "November 30, 2025",
+    "image": "/news/6.jpg",
+    "featured": false,
+    "link": "#"
+  },
+  {
+    "id": 7,
+    "category": "Innovation",
+    "title": "Digital Presence Launched Ahead of Official Opening",
+    "excerpt": "Five Star Agro Solutions has launched its official website and social media platforms including Facebook, Instagram, TikTok, and LinkedIn to connect with partners and customers worldwide.",
+    "date": "November 25, 2025",
+    "image": "/news/7.jpg",
+    "featured": false,
+    "link": "#"
+  },
+   {
+  "id": 8,
+  "category": "Expansion",
+  "title": "Scotch Bonnet Cultivation Introduced",
+  "excerpt": "Five Star Agro Solutions has initiated the cultivation of premium-quality Scotch Bonnet chili, focusing on sustainable farming practices and high-yield production for local and international markets.",
+  "date": "December 16, 2025",
+  "image": "/news/8.jpeg",
+  "featured": true,
+  "link": "#"
+},
+{
+  "id": 9,
+  "category": "Expansion",
+  "title": "Traditional Paddy Cultivation Commenced",
+  "excerpt": "Five Star Agro Solutions has officially commenced traditional paddy cultivation, focusing on indigenous rice varieties and sustainable farming methods to ensure high nutritional value and long-term soil health.",
+  "date": "December 11, 2025",
+  "image": "/news/9.jpeg",
+  "featured": true,
+  "link": "#"
+}
+
+
+]

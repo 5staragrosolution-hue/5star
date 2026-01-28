@@ -1,0 +1,21 @@
+{
+  "name": "Five Star Agro Solutions",
+  "tagline": "A greener universe through agriculture",
+  "shortDescription": "A greener universe through agriculture. We are committed to sustainable farming and premium quality exports.",
+  "fullDescription": "Five Star Agro Solutions was founded with a vision to revolutionize the agricultural landscape. We believe in nurturing the land while producing world-class crops that meet the highest international standards. Our plantations span across fertile regions, cultivating premium crops including Pineapple, Ginger, Guava, Pomegranate, and Vegetables.",
+  "stats": {
+    "acres": "150+",
+    "yearsExperience": "2+",
+    "exportPartners": "500+",
+    "countries": "1+",
+    "awards": "0+",
+    "organicCertified": "100%"
+  },
+  "navLinks": [
+    { "name": "Home", "href": "/" },
+    { "name": "About Us", "href": "/#about" },
+    { "name": "Plantations", "href": "/#plantations" },
+    { "name": "News", "href": "/#news" },
+    { "name": "Contact", "href": "/#contact" }
+  ]
+}

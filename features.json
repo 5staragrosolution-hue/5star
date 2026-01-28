@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "Sprout",
+    "title": "Organic Practices",
+    "description": "Naturally maintained plantations with minimal chemical usage and sustainable care"
+  },
+  {
+    "icon": "Globe",
+    "title": "Global Export Ready",
+    "description": "We are prepared to export our premium harvests to international markets"
+  },
+  {
+    "icon": "Shield",
+    "title": "Quality Focused",
+    "description": "Strict internal quality standards ensuring freshness and reliability"
+  },
+  {
+    "icon": "Truck",
+    "title": "Reliable Delivery",
+    "description": "Efficient supply chain from our 150-acre plantation to your destination"
+  },
+  {
+    "icon": "Recycle",
+    "title": "Sustainable",
+    "description": "Eco-friendly farming that protects biodiversity, soil health, and future yield"
+  },
+  {
+    "icon": "Leaf",
+    "title": "Growing Excellence",
+    "description": "Committed to maintaining high standards as we expand sustainably"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "James Morrison",
+    "role": "Import Manager",
+    "company": "UK Spices Ltd",
+    "content": "Five Star Agro Solutions has been our trusted partner for Ceylon cinnamon. The quality is consistently exceptional, and their commitment to organic practices aligns perfectly with our values.",
+    "image": "/british-businessman-in-suit-professional-portrait-w.jpg",
+    "rating": 5
+  },
+  {
+    "name": "Hiroshi Tanaka",
+    "role": "Procurement Head",
+    "company": "Tokyo Trading Co.",
+    "content": "We've been importing tea and spices from Five Star for 5 years. Their attention to quality and timely delivery has never disappointed us. Highly recommended!",
+    "image": "/japanese-businessman-professional-portrait-formal-a.jpg",
+    "rating": 5
+  },
+  {
+    "name": "Sarah Mitchell",
+    "role": "CEO",
+    "company": "Green Earth Organics",
+    "content": "As an organic retailer, finding reliable suppliers is crucial. Five Star Agro's commitment to sustainable farming and their organic certifications make them an ideal partner.",
+    "image": "/professional-businesswoman-portrait-confident-smile-.jpg",
+    "rating": 5
+  }
+]

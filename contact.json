@@ -1,0 +1,18 @@
+{
+  "address": {
+    "line1": "No 264/4/A/1,Kandy Road ",
+    "line2": "Miriswatta, Gampaha, Sri Lanka"
+  },
+  "phones": ["+94 33 232 2521"],
+  "emails": ["info@5staragrosolution.com"],
+  "businessHours": {
+    "weekdays": "Mon - Fri: 8:30 AM - 5:30 PM",
+    "saturday": "Sat: 9:00 AM - 1:00 PM"
+  },
+  "social": {
+    "facebook": "https://web.facebook.com/profile.php?id=61584939849480",
+    "tiktok": "https://www.tiktok.com/@5staragro",
+    "instagram": "https://www.instagram.com/_5staragro_/",
+    "linkedin": "#"
+  }
+}
